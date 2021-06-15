@@ -14,8 +14,8 @@ $ python -m pip install -U .
 ## Easy Example
 
 ```py
-from discord.ext import embed
-embed = embed.Embed(
+from discord.ext import eembed
+embed = eembed.Embed(
     title='Hello',
     description='World',
     author=dict(
@@ -260,6 +260,8 @@ Sets the author for the embed content.
 
 ##### `remove_author()`
 Clears embed’s author information.
+
+---
 
 ### `utils`
 
