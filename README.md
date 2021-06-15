@@ -14,8 +14,8 @@ $ python -m pip install -U .
 ## Easy Example
 
 ```py
-from discord.ext import eembed
-embed = eembed.Embed(
+from discord.ext import embed
+embed = embed.Embed(
     title='Hello',
     description='World',
     author=dict(
