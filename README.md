@@ -1,4 +1,4 @@
-# [discord-ext-embeds](https://github.com/AomiVel/discord-ext-embed)
+# [discord-ext-embed](https://github.com/AomiVel/discord-ext-embed)
 
 discord.py >= 2.0.0
 
