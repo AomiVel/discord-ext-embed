@@ -28,7 +28,7 @@ packages = [
 
 setup(name='discord-ext-embed',
       author='AomiVel',
-      url='https://github.com/AomiVel/discord-ext-embeds',
+      url='https://github.com/AomiVel/discord-ext-embed',
       project_urls={},
       version=version,
       packages=packages,

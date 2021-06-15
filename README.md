@@ -1,4 +1,4 @@
-# [discord-ext-embeds](https://github.com/AomiVel/discord-ext-embeds)
+# [discord-ext-embeds](https://github.com/AomiVel/discord-ext-embed)
 
 discord.py >= 2.0.0
 
@@ -6,7 +6,7 @@ discord.py >= 2.0.0
 ## install
 
 ```sh
-$ git clone https://github.com/AomiVel/discord-ext-embeds.git
+$ git clone https://github.com/AomiVel/discord-ext-embed.git
 $ cd discord-ext-embeds
 $ python -m pip install -U .
 ```
